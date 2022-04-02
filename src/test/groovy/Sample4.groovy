@@ -1,4 +1,4 @@
-import org.junit.Ignore
+import spock.lang.Ignore
 import spock.lang.IgnoreIf
 import spock.lang.IgnoreRest
 import spock.lang.Specification
